@@ -14,3 +14,4 @@ Last 4 weeks of learning helped me a lot to do this challenge because I the stru
 and function and all I had to do is think about the logic and make it work.  
 
 • What didn't go as planned?
+--Although I had 4 weeks of learning without issues, I should have practiced more so that I could complete the stretch goals. 
